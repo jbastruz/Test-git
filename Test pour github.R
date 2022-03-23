@@ -1,3 +1,3 @@
 print("hello world")
 
-plot(1:3)
+plot(1:10)
